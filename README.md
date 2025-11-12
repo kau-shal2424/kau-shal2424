@@ -8,7 +8,7 @@
 ---
 
 ### 🙋‍♂ About Me
-I'm *Kaushal Thakur, a **Computer Science Engineering* student specializing in *Artificial Intelligence and Data Science*.  
+I'm Kaushal Thakur, a *Computer Science Engineering* student specializing in *Artificial Intelligence and Data Science*.  
 I’m passionate about building intelligent web applications and uncovering insights through data.
 
 - 💻 Skilled in *MERN Stack* and *Data Analytics*

@@ -1,21 +1,38 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1000&color=00FFBF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Kaushal+Thakur!;Data+Analyst+%7C+Full-Stack+Developer" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Kaushal Thakur</h1>
+<h3 align="center">🚀 B.Tech CSE (AI & DS) Student | MERN Stack Developer | Data Analyst</h3>
 
-<div align="center">
-  <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5azZ5NjNveHBibWY5cHhleDltZ3RtaGpuNjhkaWNnbHJrcjVmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Developer Animation" />
-</div>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5azZ5NjNveHBibWY5cHhleDltZ3RtaGpuNjhkaWNnbHJrcjVmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="Coding GIF" />
+</p>
 
 ---
 
 ### 🙋‍♂️ About Me
-I’m **Kaushal Thakur**, a **3rd-year B.Tech CSE (AI & DS)** student passionate about building high-performance and data-driven applications.
+I'm **Kaushal Thakur**, a **Computer Science Engineering** student specializing in **Artificial Intelligence and Data Science**.  
+I’m passionate about building intelligent web applications and uncovering insights through data.
 
-- 💡 I love solving **real-world engineering and analytical problems**.  
-- ⚙️ Curious about **system optimization, full-stack development, and data analytics**.  
-- 🧠 Learning through **hands-on projects and open-source contributions**.  
-- 🎯 Focused on becoming a **Data Analyst** & **Full-Stack Developer (MERN)**.  
+- 💻 Skilled in **MERN Stack** and **Data Analytics**
+- 📊 Exploring **Machine Learning** and **Cloud Deployment**
+- 🎯 Focused on creating impactful, data-driven solutions
 - 📫 Reach me at: [thakurkaushal2424@gmail.com](mailto:thakurkaushal2424@gmail.com)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="mailto:thakurkaushal2424@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kaushal-thakur2424/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="https://www.instagram.com/_kaushal_thakur_24/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
+  </a>
+  <a href="https://leetcode.com/u/kau-shal2424/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/>
+  </a>
+</p>
 
 ---
 
@@ -27,8 +44,6 @@ I’m **Kaushal Thakur**, a **3rd-year B.Tech CSE (AI & DS)** student passionate
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -41,10 +56,10 @@ I’m **Kaushal Thakur**, a **3rd-year B.Tech CSE (AI & DS)** student passionate
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data & AI Tools:**  
+**Data & Analytics Tools:**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![MS Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -56,43 +71,23 @@ I’m **Kaushal Thakur**, a **3rd-year B.Tech CSE (AI & DS)** student passionate
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced **MERN Stack** concepts (Next.js, WebSockets)  
-- **Data Visualization** & **Analytics** (Tableau, Power BI, Matplotlib)  
-- **Cloud Deployment** (AWS, GCP)
+- Advanced MERN concepts (Next.js, WebSockets)  
+- Data Visualization & Business Intelligence  
+- Cloud Deployment (AWS, GCP)
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=react&hide_border=false" /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=kau-shal2424&theme=react&hide_border=false&include_all_commits=false&count_private=false" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kau-shal2424&theme=react&hide_border=false&layout=compact" /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kau-shal2424&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/kaushal-thakur2424" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thakurkaushal2424@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/kau_shal2004/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg??style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kau-shal2424&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 💬 *“Turning ideas into impactful code.”*  
-⭐ *Don’t forget to star repositories you find useful!*
+⭐ Don’t forget to star repositories you like!

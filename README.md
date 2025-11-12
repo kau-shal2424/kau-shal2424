@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal Thakur</h1>
-<h3 align="center">🚀 B.Tech CSE (AI & DS) Student | MERN Stack Developer | Data Analyst</h3>
+<h3 align="center">🚀 B.Tech CSE (AI & DS) Student | FULL-STACK Developer | Data Analyst</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350" alt="Coding GIF" />
@@ -83,7 +83,7 @@ I’m passionate about building intelligent web applications and uncovering insi
 <!-- <p align="center"> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=kau-shal2424&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<!-- </p> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kau-shal2424&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<!-- </p> -->
 
 ---
 ## 📊 GitHub Analytics  

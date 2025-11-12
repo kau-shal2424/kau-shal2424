@@ -88,6 +88,14 @@ I’m passionate about building intelligent web applications and uncovering insi
 </p>
 
 ---
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <!-- Real-time Contribution Graph only -->
+  <img alt="Devansh's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=devanshrawat27&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
 
 💬 *“Turning ideas into impactful code.”*  
 ⭐ Don’t forget to star repositories you like!

@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1000&color=00FFBF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Kaushal+Thakur!;Data+Analyst+%7C+Full-Stack+Developer;" alt="Typing SVG" />
 </h1>
 <div align="center" >
-  <img width="400" src="https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m" alt="coding">
+  <img width="400" src="https://giphy.com/gifs/pudgypenguins-ai-artificial-intelligence-grok-ML15sUZFNyMy0Yv55m">
 </div>
 
 ---

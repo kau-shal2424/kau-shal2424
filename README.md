@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech CSE (AI & DS) Student | MERN Stack Developer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif"  width="600" height="350" alt="Coding GIF" />
 </p>
 
 ---

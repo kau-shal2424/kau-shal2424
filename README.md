@@ -78,11 +78,10 @@ I’m passionate about building intelligent web applications and uncovering insi
 - Advanced MERN concepts (Next.js, WebSockets)  
 - Data Visualization & Business Intelligence  
 - Cloud Deployment (AWS, GCP)
+---
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
----
-
 ### 📊 GitHub Stats
 <!-- <p align="center"> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=react&hide_border=false)<br/>

@@ -13,8 +13,7 @@ I’m passionate about building intelligent web applications and uncovering insi
 
 - 💻 Skilled in *MERN Stack* and *Data Analytics*
 - 📊 Exploring *Machine Learning* and *Cloud Deployment*
-- 🎯 Focused on creating impactful, data-driven solutions
-- 📫 Reach me at: [thakurkaushal2424@gmail.com](mailto:thakurkaushal2424@gmail.com)
+- 🎯 Focused on creating impactful, data-driven solutions.
 
 ---
 
@@ -84,8 +83,7 @@ I’m passionate about building intelligent web applications and uncovering insi
 <!-- <p align="center"> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=kau-shal2424&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kau-shal2424&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<!-- </p> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<!-- </p> -->
 
 ---
 ## 📊 GitHub Analytics  

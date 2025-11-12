@@ -82,10 +82,9 @@ I’m passionate about building intelligent web applications and uncovering insi
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kau-shal2424&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=kau-shal2424&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=tokyonight" height="160"/>
 </p>
 
 ---

@@ -82,10 +82,12 @@ I’m passionate about building intelligent web applications and uncovering insi
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kau-shal2424&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=tokyonight" height="160"/>
-</p>
+<!-- <p align="center"> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=akanksha718&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=akanksha718&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha718&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- </p> -->
 
 ---
 ## 📊 GitHub Analytics  

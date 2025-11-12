@@ -13,7 +13,7 @@ I’m **Kaushal Thakur**, a **3rd-year Computer Science student (B.Tech CSE ‘2
 - 💡 I love solving real-world engineering problems.  
 - ⚙️ Always curious about new technologies and performance optimization.  
 - 🧠 Learning through open-source contributions and hands-on projects.  
-<!-- - 👨‍💻 Know me more <a href="https://sakshi-goyat-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a> -->
+
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=thakurkaushal2424@gmail.com" style="text-decoration: none;">Email</a>
 
 ---

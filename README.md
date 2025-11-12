@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech CSE (AI & DS) Student | MERN Stack Developer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV5azZ5NjNveHBibWY5cHhleDltZ3RtaGpuNjhkaWNnbHJrcjVmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="400" alt="Coding GIF" />
 </p>
 
 ---
@@ -82,9 +82,10 @@ I’m passionate about building intelligent web applications and uncovering insi
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kau-shal2424&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=kau-shal2424&theme=tokyonight&hide_border=false" height="160"/>
 </p>
 
 ---

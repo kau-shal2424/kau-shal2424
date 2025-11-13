@@ -73,6 +73,7 @@ I’m passionate about building intelligent web applications and uncovering insi
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Render](https://img.shields.io/badge/render-%23496FDD.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
@@ -84,9 +85,9 @@ I’m passionate about building intelligent web applications and uncovering insi
 
 ### 📊 GitHub Stats
 <!-- <p align="center"> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=kau-shal2424&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kau-shal2424&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<!-- </p> -->
+!<br/>
+!<br />
+!<!-- </p> -->
 
 ---
 ## 📊 GitHub Analytics  

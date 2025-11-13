@@ -85,9 +85,11 @@ I’m passionate about building intelligent web applications and uncovering insi
 
 ### 📊 GitHub Stats
 <!-- <p align="center"> -->
-!<br/>
-!<br />
-!<!-- </p> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=kau-shal2424&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kau-shal2424&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kau-shal2424&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- </p> -->
+
 
 ---
 ## 📊 GitHub Analytics  
